@@ -13,9 +13,6 @@ as and when I do more exercises.
 - fib.rb
   - A recursion exercise taken from Ruby Kickstart Session 3.
 
-- first-quine.rb
-  - A Makers Academy exercise from week 4 of the PreCourse.
-
 - hello_world.rb
   - A classic that needs no explanation.
 
