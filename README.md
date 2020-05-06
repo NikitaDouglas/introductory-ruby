@@ -15,6 +15,8 @@ as and when I do more exercises.
 
 - hello_world.rb
   - A classic that needs no explanation.
+  - 06/05/2020 - now updated to print its own source code using File class
+  methods. 
 
 - reverse_append.rb
   - Another recursion exercise from Ruby Kickstart Session 3.
